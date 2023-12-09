@@ -12,7 +12,6 @@ Minha jornada começou na administração, onde desenvolvi habilidades de organi
 
 **Tecnologias e Ferramentas**
 
-<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,9 +28,10 @@ Minha jornada começou na administração, onde desenvolvi habilidades de organi
 </div>
 
 ### Stats ⚡
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruno-Venceslau&theme=gotham&bg_color=000&border_color=4682B4)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bruno-Venceslau&show_icons=true&locale=en&layout=compact" alt="Bruno-Venceslau" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bruno-Venceslau&theme=gotham&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruno-Venceslau&show_icons=true&locale=en" alt="Bruno-Venceslau" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bruno-Venceslau&" alt="asnorferreira" /></p>
 
    
